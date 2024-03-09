@@ -1,1 +1,0 @@
-doorDestination = room_2
