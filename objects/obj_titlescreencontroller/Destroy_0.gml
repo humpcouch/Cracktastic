@@ -1,2 +1,2 @@
-room_goto(hubworld_xmas)
+room_goto(room_tutorial)
 audio_pause_sound(poopermario_twerk)

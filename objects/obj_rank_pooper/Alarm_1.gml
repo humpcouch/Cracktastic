@@ -1,4 +1,4 @@
-if (global.collectible >= (0.75 * global.maxRank))
+if (global.scoretotal >= 2000)
 {
     audio_play_sound(sfx_rank_good, 1, false)
     sprite_index = good_rank

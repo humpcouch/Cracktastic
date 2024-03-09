@@ -1,4 +1,4 @@
-if (global.collectible >= (0.75 * global.maxRank))
+if (global.scoretotal >= 2000)
     sprite_index = rank_great
 else
     sprite_index = rank_bad
