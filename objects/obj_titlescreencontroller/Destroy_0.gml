@@ -1,0 +1,2 @@
+room_goto(hubworld_xmas)
+audio_pause_sound(poopermario_twerk)

@@ -1,0 +1,1 @@
+global.punching = 0
